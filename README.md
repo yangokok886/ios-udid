@@ -1,5 +1,6 @@
 # ios-udid
 ios获取设备udid
+
 搭建方法： 
 1.zip解压到网站目录 
 2.修改前端index.php里的内容 
